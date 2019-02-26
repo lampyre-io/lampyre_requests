@@ -14,7 +14,7 @@ Dependencies:
 
   - Clone this repository into "user_tasks" folder at the Lampyre installation directory
   - Launch Lampyre and go to the "Scripts" tab
-  - Load the `ontology.py` script
+  - Load the `ontology.py`  script
     - [Optional] if custom request requires API key or credentials, put them inside the script code
   - Load request of your interest from its directory
   - Launch this request from the "List of requests" window to try its work
